@@ -2,7 +2,7 @@
 
 - 🌱 I am actively expanding my knowledge and skills in ASP.NET, Spring Boot, HTML, and CSS.
 
-- 👀I'm diving into web development and software testing using JUnit
+- 👀I'm diving into web development and software testing
 
 - 📫 How to reach me **t.petkova2905@gmail.com**
 
