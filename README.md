@@ -1,4 +1,4 @@
-- 👋Hi, I'm Tedy - I’m a second-year Software Engineering student at Plovdiv University.
+- 👋Hi, I'm Tedy - second-year Software Engineering student at Plovdiv University.
 
 - 🌱 I am actively expanding my knowledge and skills in ASP.NET, Spring Boot, HTML, and CSS.
 
