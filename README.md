@@ -4,7 +4,7 @@
 
 - 👀I'm diving into web development and software testing
 
-- 📫 How to reach me **t.petkova2905@gmail.com**
+- 📫 How to reach me **t.petkova0420@gmail.com**
 
 
 
