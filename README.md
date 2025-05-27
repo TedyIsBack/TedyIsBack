@@ -1,6 +1,6 @@
 - 👋Hi, I'm Tedy - second-year Software Engineering student at Plovdiv University.
 
-- 🌱 I am actively expanding my knowledge and skills in Web deb with ASP.NET and Spring Boot.
+- 🌱 I am actively expanding my knowledge and skills in Web dev with ASP.NET and Spring Boot.
 
 - 👀I'm diving into web development and software testing
 
